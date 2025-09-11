@@ -14,8 +14,7 @@ body {
   background: #e3f4ff;
   padding: 8px;
   font-size: 16px;
-  margin: 8px;
-}
+  margin: 8px 0px 0px;}
 
 .content {
   background: #e3f4ff;
@@ -23,14 +22,13 @@ body {
   padding-bottom: 16px;
   padding-left: 8px;
   padding-right: 8px;
-  margin: 8px;
-}
+  margin: 8px 0px 0px;}
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
   padding: 8px;
-  margin: 8px;
+  margin: 8px 0px 0px;
 }
 
 button {
